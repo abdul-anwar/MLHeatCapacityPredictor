@@ -1,6 +1,3 @@
-# MLHeatCapacityPredictor
-Explore organic molecule heat capacity prediction with stacked ensemble learning. StackModelGroupContributions.ipynb combines various models for accurate results. Clone the repo and dive into predictive modeling!
-
 # Prediction of Specific Heat Capacity of Organic Molecules
 Welcome to the "Prediction of Specific Heat Capacity of Organic Molecules" project repository! This project focuses on leveraging machine learning techniques to predict the specific heat capacity of organic molecules. The primary script, `StackModelGroupContributions.ipynb`, showcases the implementation of stacked ensemble learning, combining predictions from multiple models for enhanced accuracy.
 
