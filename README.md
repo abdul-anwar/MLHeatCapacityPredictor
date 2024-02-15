@@ -20,11 +20,13 @@ Open the Jupyter notebook StackModelGroupContributions.ipynb to explore the mach
 Follow the instructions within the notebook to run the models, input data, and obtain predictions.
 
 Stacked Ensemble Learning:
+
 Stacked ensemble learning involves combining predictions from multiple models to create a meta-model, enhancing predictive performance and robustness.
 
 The notebook demonstrates how stacked ensemble learning is applied to predict the specific heat capacity of organic molecules, leveraging the strengths of individual models.
 
 Additional Information:
+
 This project explores variations of the main model, including those utilizing only molecular weight or incorporating molecular weight and acentric factor as inputs.
 
 The repository also includes models and files for validation and optimization purposes, providing a comprehensive overview of the project's evolution.
